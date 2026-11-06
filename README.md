@@ -50,17 +50,6 @@ I work with data end to end — cleaning and exploring it, visualising what it s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deepakvishwakarma1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepakvishwakarma1&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakvishwakarma1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakvishwakarma1&layout=compact&hide_border=true&theme=default" alt="Top languages">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deepakvishwakarma1&theme=tokyonight&hide_border=true&background=0d1117">
     <img src="https://streak-stats.demolab.com?user=Deepakvishwakarma1&hide_border=true" alt="Contribution streak">
   </picture>
