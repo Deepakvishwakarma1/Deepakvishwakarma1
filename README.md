@@ -7,8 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-vishwakarma-939a621b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/deep_vishwkarma"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-22D3EE?style=for-the-badge&logo=rocket&logoColor=0F172A" alt="Projects"></a>
+  <a href="https://github.com/Deepakvishwakarma1?tab=repositories&language=jupyter%20notebook"><img src="https://img.shields.io/badge/Notebooks-7C3AED?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebooks"></a>
+  <a href="https://www.linkedin.com/in/deepak-vishwakarma-939a621b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/deep_vishwkarma"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepakvishwakarma1&style=flat-square&color=0e75b6&label=profile+views" alt="Profile views">
 </p>
 
